@@ -3,7 +3,7 @@
 ### Bazel Installation
 https://docs.bazel.build/versions/master/install-ubuntu.html#ubuntu
 
-### Opencv Compile
+### OpenCV Installation
 ```bash
 git clone https://github.com/Itseez/opencv.git
 
